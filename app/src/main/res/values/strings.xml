@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Storie</string>
+    <string name="baby">Once upon a time, Man started as a BABY and that is between the age of 1 to 3.</string>
+    <string name="child">From a baby, man grew into a CHILD and that is between the age of 4 to 12.</string>
+    <string name="youth">From a child, man grew into a YOUTH and that is between the age of 12 to 30.</string>
+    <string name="adult">From a youth, man grew into an ADULT and that is between the age of 30 to 70.</string>
+    <string name="aged">From an adult, man AGED and that is between the age of 70 and above. The End!</string>
+</resources>
